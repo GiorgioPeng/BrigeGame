@@ -4,6 +4,7 @@
 - use the limited planks and the stumps to go to the another side of the plank
 - you can not catch the plank when you are standing on the bottom stump
 - you can not rotate the plank from other direction to the bottom stump because it is useless
+- please use the quit button to quit the game
 
 ## the instructions:
 - left mouse button click: move person to the stump if he can or put the plank from the current stump of the person to the clicked stump
