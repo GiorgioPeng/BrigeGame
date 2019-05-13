@@ -1,5 +1,5 @@
 # The cousework of software development in 2019
-
+> If you want to play, please download the img file and the game.jar
 ## rules:
 - use the limited planks and the stumps to go to the another side of the plank
 - you can not catch the plank when you are standing on the bottom stump
