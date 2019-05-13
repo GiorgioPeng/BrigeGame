@@ -1,7 +1,7 @@
 # The cousework of software development in 2019
 > If you want to play, please download the img file and the game.jar
 ## rules:
-- use the limited planks and the stumps to go to the another side of the plank
+- use the limited planks and the stumps to go to the another side of the river
 - you can not catch the plank when you are standing on the bottom stump
 - you can not rotate the plank from other direction to the bottom stump because it is useless
 - please use the quit button to quit the game
