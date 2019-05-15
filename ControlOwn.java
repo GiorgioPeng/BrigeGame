@@ -1298,7 +1298,7 @@ public class ControlOwn  extends JPanel implements MouseListener,KeyListener{
 												OwnMap.mapData[i][j-2] = 6;
 												OwnMap.mapData[i][j-3] = 6;
 												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												OwnMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												OwnMap.jlabel[i-3][j].setIcon(new ImageIcon("img/water1.jpg"));
 												OwnMap.jlabel[i][j-1].setIcon(new ImageIcon("img/plank1.jpg"));
 												OwnMap.jlabel[i][j-2].setIcon(new ImageIcon("img/plank1.jpg"));
@@ -1314,7 +1314,7 @@ public class ControlOwn  extends JPanel implements MouseListener,KeyListener{
 												OwnMap.mapData[i][j-1] = 6;
 												OwnMap.mapData[i][j-2] = 6;
 												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												OwnMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												OwnMap.jlabel[i][j-1].setIcon(new ImageIcon("img/plank1.jpg"));
 												OwnMap.jlabel[i][j-2].setIcon(new ImageIcon("img/plank1.jpg"));
 
@@ -1345,7 +1345,7 @@ public class ControlOwn  extends JPanel implements MouseListener,KeyListener{
 												OwnMap.mapData[i+2][j] = 8;
 												OwnMap.mapData[i+3][j] = 8;
 												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												OwnMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												OwnMap.jlabel[i-3][j].setIcon(new ImageIcon("img/water1.jpg"));
 												OwnMap.jlabel[i+1][j].setIcon(new ImageIcon("img/plank2.jpg"));
 												OwnMap.jlabel[i+2][j].setIcon(new ImageIcon("img/plank2.jpg"));
@@ -1361,7 +1361,7 @@ public class ControlOwn  extends JPanel implements MouseListener,KeyListener{
 												OwnMap.mapData[i+1][j] = 8;
 												OwnMap.mapData[i+2][j] = 8;
 												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												OwnMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												OwnMap.jlabel[i+1][j].setIcon(new ImageIcon("img/plank2.jpg"));
 												OwnMap.jlabel[i+2][j].setIcon(new ImageIcon("img/plank2.jpg"));
 
@@ -1408,7 +1408,7 @@ public class ControlOwn  extends JPanel implements MouseListener,KeyListener{
 												OwnMap.mapData[i][j+1] = 6;
 												OwnMap.mapData[i][j+2] = 6;
 												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												OwnMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												OwnMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												OwnMap.jlabel[i][j+1].setIcon(new ImageIcon("img/plank1.jpg"));
 												OwnMap.jlabel[i][j+2].setIcon(new ImageIcon("img/plank1.jpg"));
 

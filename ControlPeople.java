@@ -1307,7 +1307,7 @@ public class ControlPeople extends JPanel implements MouseListener,KeyListener{
 												CreateMap.mapData[i][j-2] = 6;
 												CreateMap.mapData[i][j-3] = 6;
 												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												CreateMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												CreateMap.jlabel[i-3][j].setIcon(new ImageIcon("img/water1.jpg"));
 												CreateMap.jlabel[i][j-1].setIcon(new ImageIcon("img/plank1.jpg"));
 												CreateMap.jlabel[i][j-2].setIcon(new ImageIcon("img/plank1.jpg"));
@@ -1323,7 +1323,7 @@ public class ControlPeople extends JPanel implements MouseListener,KeyListener{
 												CreateMap.mapData[i][j-1] = 6;
 												CreateMap.mapData[i][j-2] = 6;
 												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												CreateMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												CreateMap.jlabel[i][j-1].setIcon(new ImageIcon("img/plank1.jpg"));
 												CreateMap.jlabel[i][j-2].setIcon(new ImageIcon("img/plank1.jpg"));
 
@@ -1354,7 +1354,7 @@ public class ControlPeople extends JPanel implements MouseListener,KeyListener{
 												CreateMap.mapData[i+2][j] = 8;
 												CreateMap.mapData[i+3][j] = 8;
 												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												CreateMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												CreateMap.jlabel[i-3][j].setIcon(new ImageIcon("img/water1.jpg"));
 												CreateMap.jlabel[i+1][j].setIcon(new ImageIcon("img/plank2.jpg"));
 												CreateMap.jlabel[i+2][j].setIcon(new ImageIcon("img/plank2.jpg"));
@@ -1370,7 +1370,7 @@ public class ControlPeople extends JPanel implements MouseListener,KeyListener{
 												CreateMap.mapData[i+1][j] = 8;
 												CreateMap.mapData[i+2][j] = 8;
 												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												CreateMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												CreateMap.jlabel[i+1][j].setIcon(new ImageIcon("img/plank2.jpg"));
 												CreateMap.jlabel[i+2][j].setIcon(new ImageIcon("img/plank2.jpg"));
 
@@ -1417,7 +1417,7 @@ public class ControlPeople extends JPanel implements MouseListener,KeyListener{
 												CreateMap.mapData[i][j+1] = 6;
 												CreateMap.mapData[i][j+2] = 6;
 												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
-												CreateMap.jlabel[i-1][j].setIcon(new ImageIcon("img/water1.jpg"));
+												CreateMap.jlabel[i-2][j].setIcon(new ImageIcon("img/water1.jpg"));
 												CreateMap.jlabel[i][j+1].setIcon(new ImageIcon("img/plank1.jpg"));
 												CreateMap.jlabel[i][j+2].setIcon(new ImageIcon("img/plank1.jpg"));
 

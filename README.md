@@ -1,10 +1,12 @@
 # The cousework of software development in 2019
-> If you want to play, please download the img file and the game.jar
+> Please use BlueJ to open the .java files  
+> If you want to use the eclipse please add a package in the top of every .java file
 ## rules:
 - use the limited planks and the stumps to go to the another side of the river
 - you can not catch the plank when you are standing on the bottom stump
 - you can not rotate the plank from other direction to the bottom stump because it is useless
 - please use the quit button to quit the game
+- if you pass all the levels in 3 minutes, you will be rewarded with the ability to customize the level
 
 ## the instructions:
 - left mouse button click: move person to the stump if he can or put the plank from the current stump of the person to the clicked stump
